@@ -1,0 +1,8 @@
+{
+  "name": "Math Hood: Arrows of Logic",
+  "description": "Master linear inequalities with Robin Hood through interactive lessons, exit tickets, and archery battles aiming at dynamic inequality targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
